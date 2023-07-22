@@ -1,0 +1,10 @@
+[
+  {
+    "_id": "a98df73b-da82-45e9-b4d0-fc1fd8a82be5",
+    "_class": "com.distasilucas.cryptobalancetrackerlogin.entity.UserEntity",
+    "createdAt": {"$date": "2023-01-01T00:00:00.000Z"},
+    "password": "$2a$10$rGt158fGq/InG3wMBEzyFewEFm22XdzgSX9OI9sXSTzpg/GKZnHIm",
+    "role": "ROLE_ADMIN",
+    "username": "lucas"
+  }
+]
